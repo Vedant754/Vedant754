@@ -1,5 +1,14 @@
-# 💫 About Me:
-## 👋 Hey, I'm Vedant Bhagwat<br><br>Software Developer | AI Engineer in Progress | Building AI Products<br><br>I'm passionate about designing and developing software that creates real-world impact. My current focus is AI Engineering, where I'm building production-ready applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and modern backend architectures.<br><br>I believe the best way to learn is by building. From full-stack applications to end-to-end AI systems, I enjoy taking ideas from concept to deployment while continuously exploring new technologies and engineering best practices.<br><br>### 🚀 Current Focus<br>- Building AI-powered products with RAG & LLMs<br>- Exploring Agentic AI and autonomous workflows<br>- Developing scalable backend systems using FastAPI<br>- Learning vector databases, embeddings, and AI infrastructure<br>- Creating projects that bridge software engineering with applied AI<br><br>Always curious. Always building. Always learning.
+# 💫 About Me
+
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## Hi, I'm Vedant 👋
+
+Software Developer passionate about **AI Engineering** and building real-world products.
+
+Currently working with **LLMs, RAG, AI Agents, FastAPI, Vector Databases,** and modern backend technologies while continuously exploring the future of AI.
+
+**Always learning. Always building. 🚀**
 
 
 ## 🌐 Socials:
