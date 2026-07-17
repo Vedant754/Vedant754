@@ -1,14 +1,5 @@
-# 💫 About Me
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-## Hi, I'm Vedant 👋
-
-Software Developer passionate about **AI Engineering** and building real-world products.
-
-Currently working with **LLMs, RAG, AI Agents, FastAPI, Vector Databases,** and modern backend technologies while continuously exploring the future of AI.
-
-**Always learning. Always building. 🚀**
+# 💫 About Me:
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><br>## Hi, I'm Vedant 👋<br><br>Software Developer passionate about **AI Engineering** and building real-world products.<br><br>Currently working with **LLMs, RAG, AI Agents, FastAPI, Vector Databases,** and modern backend technologies while continuously exploring the future of AI.<br><br>**Always learning. Always building. 🚀**
 
 
 ## 🌐 Socials:
