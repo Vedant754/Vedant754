@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><br>## Hi, I'm Vedant 👋<br><br>Software Developer passionate about **AI Engineering** and building real-world products.<br><br>Currently working with **LLMs, RAG, AI Agents, FastAPI, Vector Databases,** and modern backend technologies while continuously exploring the future of AI.<br><br>**Always learning. Always building. 🚀**
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/216655848-eabb0a39-14c8-4e4e-89a4-5d825ff4f8e3.png"><br>Hi, I'm Vedant 👋<br><br>Software Developer passionate about **AI Engineering** and building real-world products.<br><br>Currently working with **LLMs, RAG, AI Agents, FastAPI, Vector Databases,** and modern backend technologies while continuously exploring the future of AI.<br><br>**Always learning. Always building. 🚀**
 
 
 ## 🌐 Socials:
